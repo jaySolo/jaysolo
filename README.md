@@ -8,7 +8,17 @@
 ---
 
 
-### Technologies I Use
+
+
+## Technologies I Use
+
+
+#### Environments
+
+![Microsoft%20Windows](https://img.shields.io/badge/-Microsoft%20Windows-blue?logo=Windows)
+![Linux](https://img.shields.io/badge/-Linux-black?logo=Linux)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-white?logo=Ubuntu)
+![Node.js](https://img.shields.io/badge/-Node.js-white?logo=Node.js)
 
 
 #### Languages
@@ -26,8 +36,26 @@
 
 #### Frameworks, Libraries & Templates 
 
-![Angular](https://img.shields.io/badge/-Angular-crimson?logo=Angular)
+![.NET%20Framework](https://img.shields.io/badge/-.NET%20Framework-blueviolet?logo=.NET)
+![ASP.NET](https://img.shields.io/badge/-ASP.NET-blueviolet)
+![ASP.NET%20Core](https://img.shields.io/badge/-ASP.NET%20Core-blueviolet)
+![ASP.NET%20Core%20MVC](https://img.shields.io/badge/-ASP.NET%20Core%20MVC-blueviolet)
+![ASP.NET%20Core%20Web%20API](https://img.shields.io/badge/-ASP.NET%20Core%20Web%20API-blueviolet)
+![Entity%20Framework](https://img.shields.io/badge/-Entity%20Framework-white)
+![NHibernate](https://img.shields.io/badge/-NHibernate-white)
 
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-white?logo=Bootstrap)
+![jQuery](https://img.shields.io/badge/-jQuery-blue?logo=jQuery)
+
+![Angular](https://img.shields.io/badge/-Angular-crimson?logo=Angular)
+![Nebular](https://img.shields.io/badge/-Nebular-52cbdf)
+![ngx--admin](https://img.shields.io/badge/-ngx--admin-52cbdf)
+
+![ionic](https://img.shields.io/badge/-ionic-white?logo=Ionic)
+
+<!--
+![React](https://img.shields.io/badge/-React-white?logo=React)
+-->
 
 
 #### Database Systems
