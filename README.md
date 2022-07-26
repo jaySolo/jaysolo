@@ -26,12 +26,10 @@
    <img alt="ASP.NET" src="https://img.shields.io/badge/-ASP.NET-blueviolet">
    <img alt="ASP.NET Core" src="https://img.shields.io/badge/-ASP.NET%20Core-blueviolet">
    <img alt="ASP.NET Core MVC" src="https://img.shields.io/badge/-ASP.NET%20Core%20MVC-blueviolet">
-   <br/>
    <img alt="ASP.NET Core Web API" src="https://img.shields.io/badge/-ASP.NET%20Core%20Web%20API-blueviolet">
    <img alt="Entity Framework" src="https://img.shields.io/badge/-Entity%20Framework-white">
    <img alt="NHibernate" src="https://img.shields.io/badge/-NHibernate-white">
    <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-white?logo=Bootstrap">
-   <br/>
    <img alt="jQuery" src="https://img.shields.io/badge/-jQuery-blue?logo=jQuery">
    <img alt="Angular" src="https://img.shields.io/badge/-Angular-crimson?logo=Angular">
    <img alt="Nebular" src="https://img.shields.io/badge/-Nebular-52cbdf">
@@ -67,7 +65,6 @@
    <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-blue?logo=Visual%20Studio%20Code">
    <img alt="Postman" src="https://img.shields.io/badge/-Postman-white?logo=Postman">
    <img alt="GIMP" src="https://img.shields.io/badge/-GIMP-555555?logo=GIMP">
-   <br/>
    <img alt="Figma" src="https://img.shields.io/badge/-Figma-white?logo=Figma">
    <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-white?logo=Arduino">
    <img alt="Adobe%20XD" src="https://img.shields.io/badge/-Adobe%20XD-purple?logo=Adobe%20XD">
