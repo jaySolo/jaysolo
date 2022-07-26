@@ -7,9 +7,36 @@
 
 ---
 
-Technologies
-<h1><h1>
 
+### Technologies I Use
+
+
+#### Languages
+![C%20Sharp](https://img.shields.io/badge/-C%20Sharp-789f69?logo=C%20Sharp)
+![HTML5](https://img.shields.io/badge/-HTML5-white?logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-blue?logo=CSS3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=JavaScript)
+
+<!--
+
+[SASS](https://img.shields.io/badge/-SASS-white?logo=Sass)
+![PHP](https://img.shields.io/badge/-PHP-white?logo=PHP)
+
+-->
+
+#### Frameworks, Libraries & Templates 
+
+![Angular](https://img.shields.io/badge/-Angular-crimson?logo=Angular)
+
+
+#### Tools & Softwares
+
+![Git](https://img.shields.io/badge/-Git-white?logo=Git) 
+![GitHub%20Desktop](https://img.shields.io/badge/-GitHub%20Desktop-blueviolet?logo=GitHub)
+![Visual%20Studio%20Code](https://img.shields.io/badge/-Visual%20Studio%20Code-blue?logo=Visual%20Studio%20Code)
+![Postman](https://img.shields.io/badge/-Postman-white?logo=Postman)
+![GIMP](https://img.shields.io/badge/-GIMP-555555?logo=GIMP)
+![Figma](https://img.shields.io/badge/-Figma-white?logo=Figma) 
 
 <!--
 **jaySolo/jaysolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
