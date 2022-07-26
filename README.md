@@ -5,88 +5,88 @@
  </p>
 </div>
 
----
+<h3> Technologies I Use</h2>
+<table>
+ <tr>
+  <td>
+   <b>Languages</b>
+   <br/>
+   <img alt="C%20Sharp" src="https://img.shields.io/badge/-C%20Sharp-789f69?logo=C%20Sharp">
+   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-white?logo=HTML5">
+   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-blue?logo=CSS3">
+   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-black?logo=JavaScript">
+<!--    <img alt="SASS" src="https://img.shields.io/badge/-SASS-white?logo=SASS"> -->
+<!--    <img alt="PHP" src="https://img.shields.io/badge/-PHP-white?logo=PHP"> -->
+   <br/>
+   <br/>
+   <b>Frameworks, Libraries & Templates</b>
+   <br/>
+   <img alt=".NET Framework" src="https://img.shields.io/badge/-.NET%20Framework-blueviolet?logo=.NET">
+   <img alt="ASP.NET" src="https://img.shields.io/badge/-ASP.NET-blueviolet">
+   <img alt="ASP.NET Core" src="https://img.shields.io/badge/-ASP.NET%20Core-blueviolet">
+   <img alt="ASP.NET Core MVC" src="https://img.shields.io/badge/-ASP.NET%20Core%20MVC-blueviolet">
+   <br/>
+   <img alt="ASP.NET Core Web API" src="https://img.shields.io/badge/-ASP.NET%20Core%20Web%20API-blueviolet">
+   <img alt="Entity Framework" src="https://img.shields.io/badge/-Entity%20Framework-white">
+   <img alt="NHibernate" src="https://img.shields.io/badge/-NHibernate-white">
+   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-white?logo=Bootstrap">
+   <br/>
+   <img alt="jQuery" src="https://img.shields.io/badge/-jQuery-blue?logo=jQuery">
+   <img alt="Angular" src="https://img.shields.io/badge/-Angular-crimson?logo=Angular">
+   <img alt="Nebular" src="https://img.shields.io/badge/-Nebular-52cbdf">
+   <img alt="ngx-admin" src="https://img.shields.io/badge/-ngx--admin-52cbdf">
+   <img alt="Ionic" src="https://img.shields.io/badge/-ionic-white?logo=Ionic">
+<!--    <img alt="React" src="https://img.shields.io/badge/-React-white?logo=React"> -->
+   <br/>
+   <br/>
+   <b>Database Systems</b>
+   <br/>
+   <img alt="Microsoft%20SQL%20Server" src="https://img.shields.io/badge/-Microsoft%20SQL%20Server-crimson?logo=Microsoft%20SQL%20Server">
+   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-white?logo=MySQL">
+   <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-004b74?logo=SQLite">
+   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-white?logo=PostgreSQL">
+   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-white?logo=MongoDB">
+   <br/>
+  </td>
+  <td>
+   <b>Environments</b>
+   <br/>
+   <img alt="Microsoft Windows" src="https://img.shields.io/badge/-Microsoft%20Windows-blue?logo=Windows">
+   <img alt="Linux" src="https://img.shields.io/badge/-Linux-black?logo=Linux">
+   <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-white?logo=Ubuntu">
+   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-white?logo=Node.js">
+<!--    <img alt="" src=""> -->
+<!--    <img alt="" src=""> -->
+   <br/>
+   <br/>
+   <br/>
+   <b>Tools & Softwares</b>
+   <br/>
+   <img alt="Git" src="https://img.shields.io/badge/-Git-white?logo=Git">
+   <img alt="GitHub Desktop" src="https://img.shields.io/badge/-GitHub%20Desktop-blueviolet?logo=GitHub">
+   <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-blue?logo=Visual%20Studio%20Code">
+   <img alt="Postman" src="https://img.shields.io/badge/-Postman-white?logo=Postman">
+   <img alt="GIMP" src="https://img.shields.io/badge/-GIMP-555555?logo=GIMP">
+   <img alt="Figma" src="https://img.shields.io/badge/-Figma-white?logo=Figma">
+<!--    <img alt="" src=""> -->
+<!--    <img alt="" src=""> -->
+   <br/>
+   <br/>
+   <b>Platforms & Hosted Services</b>
+   <br/>
+   <img alt="Netlify" src="https://img.shields.io/badge/-Netlify-black?logo=Netlify">
+   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-blueviolet?logo=Heroku">
+   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-blueviolet?logo=GitHub">
+   <img alt="Bitbucket" src="https://img.shields.io/badge/-Bitbucket-blue?logo=Bitbucket">
+   <img alt="GitLab" src="https://img.shields.io/badge/-GitLab-white?logo=GitLab">
+   <br/>
+   <br/>
+  </td>
+ </tr>
+ </table>
 
 
 
-
-## Technologies I Use
-
-
-#### Environments
-
-![Microsoft%20Windows](https://img.shields.io/badge/-Microsoft%20Windows-blue?logo=Windows)
-![Linux](https://img.shields.io/badge/-Linux-black?logo=Linux)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-white?logo=Ubuntu)
-![Node.js](https://img.shields.io/badge/-Node.js-white?logo=Node.js)
-
-
-#### Languages
-![C%20Sharp](https://img.shields.io/badge/-C%20Sharp-789f69?logo=C%20Sharp)
-![HTML5](https://img.shields.io/badge/-HTML5-white?logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS3-blue?logo=CSS3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=JavaScript)
-
-<!--
-
-[SASS](https://img.shields.io/badge/-SASS-white?logo=Sass)
-![PHP](https://img.shields.io/badge/-PHP-white?logo=PHP)
-
--->
-
-#### Frameworks, Libraries & Templates 
-
-![.NET%20Framework](https://img.shields.io/badge/-.NET%20Framework-blueviolet?logo=.NET)
-![ASP.NET](https://img.shields.io/badge/-ASP.NET-blueviolet)
-![ASP.NET%20Core](https://img.shields.io/badge/-ASP.NET%20Core-blueviolet)
-![ASP.NET%20Core%20MVC](https://img.shields.io/badge/-ASP.NET%20Core%20MVC-blueviolet)
-![ASP.NET%20Core%20Web%20API](https://img.shields.io/badge/-ASP.NET%20Core%20Web%20API-blueviolet)
-![Entity%20Framework](https://img.shields.io/badge/-Entity%20Framework-white)
-![NHibernate](https://img.shields.io/badge/-NHibernate-white)
-
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-white?logo=Bootstrap)
-![jQuery](https://img.shields.io/badge/-jQuery-blue?logo=jQuery)
-
-![Angular](https://img.shields.io/badge/-Angular-crimson?logo=Angular)
-![Nebular](https://img.shields.io/badge/-Nebular-52cbdf)
-![ngx--admin](https://img.shields.io/badge/-ngx--admin-52cbdf)
-
-![ionic](https://img.shields.io/badge/-ionic-white?logo=Ionic)
-
-<!--
-![React](https://img.shields.io/badge/-React-white?logo=React)
--->
-
-
-#### Database Systems
-
-![Microsoft%20SQL%20Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-crimson?logo=Microsoft%20SQL%20Server)
-![MySQL](https://img.shields.io/badge/-MySQL-white?logo=MySQL)
-![SQLite](https://img.shields.io/badge/-SQLite-004b74?logo=SQLite)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-white?logo=PostgreSQL)
-![MongoDB](https://img.shields.io/badge/-MongoDB-white?logo=MongoDB)
-
-
-
-#### Tools & Softwares
-
-![Git](https://img.shields.io/badge/-Git-white?logo=Git) 
-![GitHub%20Desktop](https://img.shields.io/badge/-GitHub%20Desktop-blueviolet?logo=GitHub)
-![Visual%20Studio%20Code](https://img.shields.io/badge/-Visual%20Studio%20Code-blue?logo=Visual%20Studio%20Code)
-![Postman](https://img.shields.io/badge/-Postman-white?logo=Postman)
-![GIMP](https://img.shields.io/badge/-GIMP-555555?logo=GIMP)
-![Figma](https://img.shields.io/badge/-Figma-white?logo=Figma)
-
-
-
-#### Platforms & Hosted Services
-
-![Netlify](https://img.shields.io/badge/-Netlify-black?logo=Netlify)
-![Heroku](https://img.shields.io/badge/-Heroku-blueviolet?logo=Heroku)
-
-![GitHub](https://img.shields.io/badge/-GitHub-blueviolet?logo=GitHub)
-![Bitbucket](https://img.shields.io/badge/-Bitbucket-blue?logo=Bitbucket)
-![GitLab](https://img.shields.io/badge/-GitLab-white?logo=GitLab)
 
 
 <!--
