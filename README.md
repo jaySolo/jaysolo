@@ -75,7 +75,19 @@
 ![Visual%20Studio%20Code](https://img.shields.io/badge/-Visual%20Studio%20Code-blue?logo=Visual%20Studio%20Code)
 ![Postman](https://img.shields.io/badge/-Postman-white?logo=Postman)
 ![GIMP](https://img.shields.io/badge/-GIMP-555555?logo=GIMP)
-![Figma](https://img.shields.io/badge/-Figma-white?logo=Figma) 
+![Figma](https://img.shields.io/badge/-Figma-white?logo=Figma)
+
+
+
+#### Platforms & Hosted Services
+
+![Netlify](https://img.shields.io/badge/-Netlify-black?logo=Netlify)
+![Heroku](https://img.shields.io/badge/-Heroku-blueviolet?logo=Heroku)
+
+![GitHub](https://img.shields.io/badge/-GitHub-blueviolet?logo=GitHub)
+![Bitbucket](https://img.shields.io/badge/-Bitbucket-blue?logo=Bitbucket)
+![GitLab](https://img.shields.io/badge/-GitLab-white?logo=GitLab)
+
 
 <!--
 **jaySolo/jaysolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
