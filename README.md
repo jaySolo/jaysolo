@@ -5,7 +5,7 @@
  </p>
 </div>
 
-<h3> Technologies I Use</h2>
+<h3> 🛠  Technologies I Use:</h2>
 <table>
  <tr>
   <td>
@@ -17,6 +17,7 @@
    <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-black?logo=JavaScript">
 <!--    <img alt="SASS" src="https://img.shields.io/badge/-SASS-white?logo=SASS"> -->
 <!--    <img alt="PHP" src="https://img.shields.io/badge/-PHP-white?logo=PHP"> -->
+   <img alt="C%2FC%2B%2B" src="https://img.shields.io/badge/-C%2FC%2B%2B-blue?logo=C%2B%2B">
    <br/>
    <br/>
    <b>Frameworks, Libraries & Templates</b>
@@ -59,7 +60,6 @@
 <!--    <img alt="" src=""> -->
    <br/>
    <br/>
-   <br/>
    <b>Tools & Softwares</b>
    <br/>
    <img alt="Git" src="https://img.shields.io/badge/-Git-white?logo=Git">
@@ -67,9 +67,13 @@
    <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-blue?logo=Visual%20Studio%20Code">
    <img alt="Postman" src="https://img.shields.io/badge/-Postman-white?logo=Postman">
    <img alt="GIMP" src="https://img.shields.io/badge/-GIMP-555555?logo=GIMP">
+   <br/>
    <img alt="Figma" src="https://img.shields.io/badge/-Figma-white?logo=Figma">
+   <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-white?logo=Arduino">
+   <img alt="Adobe%20XD" src="https://img.shields.io/badge/-Adobe%20XD-purple?logo=Adobe%20XD">
 <!--    <img alt="" src=""> -->
 <!--    <img alt="" src=""> -->
+   <br/>
    <br/>
    <br/>
    <b>Platforms & Hosted Services</b>
@@ -80,14 +84,18 @@
    <img alt="Bitbucket" src="https://img.shields.io/badge/-Bitbucket-blue?logo=Bitbucket">
    <img alt="GitLab" src="https://img.shields.io/badge/-GitLab-white?logo=GitLab">
    <br/>
-   <br/>
   </td>
  </tr>
- </table>
+</table>
+   
 
+   
+<!-- 
 
+### 🔥 &nbsp; My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jaysolo&theme=dark&background=000000)](https://git.io/streak-stats)     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaysolo&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-
+ -->
 
 <!--
 **jaySolo/jaysolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
