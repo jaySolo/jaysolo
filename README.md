@@ -29,6 +29,17 @@
 ![Angular](https://img.shields.io/badge/-Angular-crimson?logo=Angular)
 
 
+
+#### Database Systems
+
+![Microsoft%20SQL%20Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-crimson?logo=Microsoft%20SQL%20Server)
+![MySQL](https://img.shields.io/badge/-MySQL-white?logo=MySQL)
+![SQLite](https://img.shields.io/badge/-SQLite-004b74?logo=SQLite)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-white?logo=PostgreSQL)
+![MongoDB](https://img.shields.io/badge/-MongoDB-white?logo=MongoDB)
+
+
+
 #### Tools & Softwares
 
 ![Git](https://img.shields.io/badge/-Git-white?logo=Git) 
